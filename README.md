@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Salon Fryzur Wiola**
+- 🔭 I’m currently working on **Quiz App**
 
-- 🌱 I’m currently learning **THREE.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
