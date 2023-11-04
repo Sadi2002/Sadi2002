@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flashcard App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
