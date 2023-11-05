@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Netflix clone**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue 3**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
