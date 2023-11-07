@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Reaction Timer App - Vue**
 
-- 🌱 I’m currently learning **Vue 3**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
