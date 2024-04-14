@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **figma design app**
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **REACT**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
