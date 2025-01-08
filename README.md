@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Archi**
 
-- 🌱 I’m currently learning **THREEJS**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
