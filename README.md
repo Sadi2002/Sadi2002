@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **THREE**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Modern Design, UX/UI**
 
